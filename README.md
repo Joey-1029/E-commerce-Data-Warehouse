@@ -104,7 +104,6 @@ py scripts/export_portfolio_figures.py
 ![Cohort retention](analysis/figures/cohort_retention.png)
 ![Top3 products](analysis/figures/top3_products_latest.png)
 
-📌 可写进简历的项目描述（示例）
 - 基于 Kaggle UK Online Retail 数据，使用 **Python + SQLite** 搭建 ODS/DWD/ADS 分层数仓，沉淀核心业务指标与分析宽表
 - 使用 **窗口函数、RFM 分群、Cohort 留存、复购率/客单价分布** 等方法定位增长来源与用户价值结构，并将结果落库供可视化消费
 
